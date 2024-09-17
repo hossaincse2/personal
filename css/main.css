@@ -5284,3 +5284,8 @@ a.credit {
 /* Common Style */
 .section {
   padding-bottom: 0; }
+
+  .cc-porfolio-image img{
+    height: 320px;
+    padding: 10px;
+  }
