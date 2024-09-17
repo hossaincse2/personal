@@ -5038,12 +5038,13 @@ Created using IcoMoon - icomoon.io
   opacity: 0; }
 
 .gallery figure.cc-effect figcaption::before {
-  top: 10px;
-  right: 10px;
-  bottom: 10px;
-  left: 10px;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
   transform: scale(0, 0);
-  transform-origin: 0 0; }
+  transform-origin: 0 0;
+ }
 
 .gallery figure.cc-effect figcaption::after {
   top: 10px;
